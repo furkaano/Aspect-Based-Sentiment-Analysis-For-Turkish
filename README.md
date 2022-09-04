@@ -15,7 +15,6 @@
 <hr>
 
 
-
 ## Specification about what we used and achieved.
 
 ***************
